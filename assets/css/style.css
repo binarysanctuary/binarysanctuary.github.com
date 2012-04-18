@@ -24,3 +24,12 @@ h2 {
   color: #222;
   text-shadow: 1px 1px 3px #333;
 }
+
+a {
+  color: #aaa;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
