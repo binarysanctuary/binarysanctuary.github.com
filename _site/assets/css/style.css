@@ -18,3 +18,9 @@ h1 {
   color: #000;
   text-shadow: 2px 2px 5px #333;
 }
+
+h2 {
+  font-size: 20pt;
+  color: #222;
+  text-shadow: 1px 1px 3px #333;
+}
